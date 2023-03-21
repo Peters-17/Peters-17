@@ -1,6 +1,11 @@
-### Hi there 👋
+### Welcome to my Github 👋
 ![Peters-17's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peters-17&theme=dark&show_icons=true)
 
+🔭 I’m currently studying in UW-Madison
+
+🌱 I’m currently learning algorithm and quickly write code in python
+
+👯 I’m looking to collaborate with passionate people
 <!--
 **Peters-17/Peters-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
