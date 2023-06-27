@@ -3,7 +3,7 @@
 
 🔭 I’m currently graduated from UW-Madison and pursuing my Master of Computer Science degree in Northwestern University
 
-🌱 I’m currently learning algorithm and quickly write code in python
+🌱 I’m currently looking for SDE jobs in 2024
 
 👯 I’m looking to collaborate with passionate people
 <!--
