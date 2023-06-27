@@ -1,7 +1,7 @@
 ### Welcome to my Github 👋
 ![Peters-17's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peters-17&theme=red&show_icons=true)
 
-🔭 I’m currently graduated from UW-Madison
+🔭 I’m currently graduated from UW-Madison and pursuing my Master of Computer Science degree in Northwestern University
 
 🌱 I’m currently learning algorithm and quickly write code in python
 
