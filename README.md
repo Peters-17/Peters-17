@@ -2,14 +2,12 @@
 
 🔭 I’m currently graduated from UW-Madison and pursuing my Master of Computer Science degree in Northwestern University
 
-🌱 I’m currently looking for SDE jobs in 2024
-
 👯 I’m looking to collaborate with passionate people
 <!--
 **Peters-17/Peters-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+🌱 I’m currently looking for SDE jobs in 2024
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
