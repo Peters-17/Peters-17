@@ -1,6 +1,8 @@
 ### Welcome to my Github 👋
 
-🔭 I’m currently graduated from UW-Madison and pursuing my Master of Computer Science degree in Northwestern University
+🔭 I’m currently pursuing my Master of Computer Science degree at Northwestern University
+
+😄 I love coding and playing video games
 
 👯 I’m looking to collaborate with passionate people
 <!--
