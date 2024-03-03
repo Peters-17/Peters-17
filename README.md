@@ -2,9 +2,9 @@
 
 🔭 I’m currently pursuing my Master of Computer Science degree at Northwestern University
 
-😄 I love coding and playing video games
+🌱 I’m currently looking for SDE summer jobs in 2024
 
-👯 I’m looking to collaborate with passionate people
+🔭 I’m currently working on A Round Entertainment as an SDE intern
 <!--
 **Peters-17/Peters-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
