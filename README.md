@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on A Round Entertainment as an SDE intern
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peters-17)](https://github.com/Peters-17/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peters-17)](https://github.com/Peters-17/github-readme-stats&hide=stars,issues)
 
 <!--
 **Peters-17/Peters-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
