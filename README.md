@@ -6,11 +6,9 @@
 
 🔭 I’m currently working on A Round Entertainment as an SDE intern
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peters-17&count_private=true&hide=stars,issues)](https://github.com/Peters-17/github-readme-stats)
-
 <!--
 **Peters-17/Peters-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peters-17&count_private=true&hide=stars,issues)](https://github.com/Peters-17/github-readme-stats)
 Here are some ideas to get you started:
 🌱 I’m currently looking for SDE jobs in 2024
 - 🔭 I’m currently working on ...
