@@ -2,9 +2,9 @@
 
 🔭 I’m currently pursuing my Master of Computer Science degree at Northwestern University
 
-🌱 I’m currently looking for SDE summer jobs in 2024
+🌱 I’m recording my tech life here https://www.yhyhappy.com/
 
-🔭 I’m currently working on A Round Entertainment as an SDE intern
+🔭 I believe that hard work pays off, even if it doesn't now, it will later.
 
 <!--
 **Peters-17/Peters-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
